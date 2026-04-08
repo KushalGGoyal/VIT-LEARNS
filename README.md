@@ -6,15 +6,12 @@ This project demonstrates core front-end development concepts like DOM manipulat
 
 🌐 Live Demo
 
-🔗 Add your deployed link here
-Example:
-https://username.github.io/vit-learns/
+Deployed Link: https://kushalggoyal.github.io/VIT-LEARNS/
+
 
 💻 GitHub Repository
 
-🔗 Add your repo link here
-Example:
-https://github.com/username/vit-learns
+Source Code: https://github.com/KushalGGoyal/VIT-LEARNS
 
 📌 Project Overview
 
@@ -55,6 +52,7 @@ CSS3	Styling & layout
 JavaScript	Interactivity & logic
 Flexbox & Grid	Responsive design
 LocalStorage	Store enrolled courses
+
 📂 Project Structure
 vit-learns/
 │
